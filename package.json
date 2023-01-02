@@ -1,5 +1,5 @@
 {
-  "name": "ddb",
+  "name": "@s4nt14go/ddb",
   "version": "0.0.0-development",
   "description": "",
   "main": "./lib/cjs/index.js",
