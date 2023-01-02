@@ -6,7 +6,7 @@
   "types": "./lib/cjs/types/index.d.ts",
   "release": {
     "branches": [
-      "master"
+      "main"
     ]
   },
   "publishConfig": {
