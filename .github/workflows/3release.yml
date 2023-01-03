@@ -25,4 +25,5 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npx semantic-release
+      - run: npx semantic-release
+      - run: curl -X PURGE https://img.shields.io/npm/v/@s4nt14go/ddb
