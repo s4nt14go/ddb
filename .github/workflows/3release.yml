@@ -27,4 +27,4 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           npx semantic-release
-          curl -X PURGE https://img.shields.io/npm/v/@s4nt14go/ddb
+          curl -X PURGE https://img.shields.io/npm/v/@s4nt14go/<packageName>

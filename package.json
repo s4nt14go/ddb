@@ -1,5 +1,5 @@
 {
-  "name": "@s4nt14go/ddb",
+  "name": "@s4nt14go/<packageName>",
   "version": "0.0.0-development",
   "description": "",
   "main": "./lib/cjs/index.js",
@@ -43,14 +43,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/s4nt14go/ddb.git"
+    "url": "https://github.com/s4nt14go/<packageName>.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/s4nt14go/ddb/issues"
+    "url": "https://github.com/s4nt14go/<packageName>/issues"
   },
-  "homepage": "https://github.com/s4nt14go/ddb#readme",
+  "homepage": "https://github.com/s4nt14go/<packageName>#readme",
   "devDependencies": {
     "@types/jest": "^29.2.5",
     "@typescript-eslint/eslint-plugin": "^5.47.1",

@@ -1,5 +1,5 @@
-![npm](https://img.shields.io/npm/v/@s4nt14go/ddb)
+![npm](https://img.shields.io/npm/v/@s4nt14go/<packageName>)
 
-# Placeholder
+# Template for new libraries
 
-Just that
+Starting point to create new libraries, replace all <packageName> with your desired name
