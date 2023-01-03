@@ -1,7 +1,7 @@
 name: release
 on:
   workflow_run:
-    workflows: ['snyk', 'tests']
+    workflows: ['snyk']
     branches: [main]
     types:
       - completed

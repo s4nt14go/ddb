@@ -1,5 +1,11 @@
 name: snyk
-on: [push,pull_request]
+on:
+  workflow_run:
+    workflows: ['tests']
+    branches: [main]
+    types:
+      - completed
+      -
 jobs:
   security:
     runs-on: ubuntu-latest
