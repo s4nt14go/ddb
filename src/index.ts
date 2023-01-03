@@ -1,5 +1,5 @@
 export function helloWorld() {
-  console.log('0');
+  console.log('1');
   return 'Hello World from my example modern npm package!';
 }
 
