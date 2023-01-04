@@ -2,4 +2,4 @@
 
 # Template for new libraries
 
-Starting point to create new libraries, replace all <packageName> with your desired name
+Starting point to create new libraries, replace all \<packageName> with your desired name
